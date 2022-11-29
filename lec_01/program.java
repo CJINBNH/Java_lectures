@@ -149,7 +149,7 @@ package lec_01;
 //     }
 // }
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 // public class program{
 //     static public void main(String[] args) {
